@@ -19,7 +19,7 @@ batch_size = 64
 num_epochs = 10
 
 ckpt_dir = './checkpoint'
-log_dir = '../log'
+log_dir = 'log'
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
