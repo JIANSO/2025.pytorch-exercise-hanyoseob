@@ -3,19 +3,19 @@
 - https://github.com/hanyoseob
 - Yoseob Han 교수님의 딥러닝 예제 개인 실습
 ---
-- 1.MNIST classifier
-- 2.무료 GPU 플랫폼 Colab 사용기
-- 3.UNet: 데이터셋 전처리하기
-- 4.UNet 구조 구현하기
-- 5.Data loader & transform 구현하기
-- 6.UNet training 시키기
-- 7.UNet testing 시키기
-- 8.Code 최적화 & parser 추가하기
-- 9.Image regression framework 구축하기 1부
-- 10.Image regression framework 구축하기 2부
-- 11.ResNet 1부: ResBlock & Pixel Shuffle
-- 12.ResNet 2부: Image Regression & Colab Pretrained Results
-- 13.DCGAN: 한 방에 끝내기
-- 14.pix2pix: 한 방에 끝내기
-- 15.Python 에서 C/C++ 과 CUDA C 호출하기
-- 16.CycleGAN: 한방에 끝내기
+- 001.MNIST classifier
+- 002.무료 GPU 플랫폼 Colab 사용기
+- 003.UNet: 데이터셋 전처리하기
+- 004.UNet 구조 구현하기
+- 005.Data loader & transform 구현하기
+- 006.UNet training 시키기
+- 007.UNet testing 시키기
+- 008.Code 최적화 & parser 추가하기
+- 009.Image regression framework 구축하기 1부
+- 010.Image regression framework 구축하기 2부
+- 011.ResNet 1부: ResBlock & Pixel Shuffle
+- 012.ResNet 2부: Image Regression & Colab Pretrained Results
+- 013.DCGAN: 한 방에 끝내기
+- 014.pix2pix: 한 방에 끝내기
+- 015.Python 에서 C/C++ 과 CUDA C 호출하기
+- 016.CycleGAN: 한방에 끝내기
